@@ -1,0 +1,4 @@
+sudo apt-get update
+sudo apt-get install git-core
+git config --global user.name "jayaprakash-a"
+git config --global user.email "akualajayaprakash@gmailcom"

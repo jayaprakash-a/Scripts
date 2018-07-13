@@ -1,0 +1,6 @@
+sudo apt-get install net-tools
+git clone https://github.com/oblique/create_ap.git
+cd create_ap
+sudo make install
+sudo apt install hostapd
+sudo create_ap wlp3s0 wlp3s0 Jayaprakash Naaishtam
