@@ -1,0 +1,2 @@
+winget install --id Git.Git
+winget install --id Microsoft.VisualStudioCode
